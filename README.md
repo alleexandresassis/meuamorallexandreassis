@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Amor</title>
+</head>
+<body>
+
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+
+    <h1>Meu Amor</h1>
+
+    <audio autoplay loop controls>
+        <source src="Ben Jelen  - Come On ( casa do lago ) - NáhHda Mata (youtube).mp3"
+                type="audio/mpeg">
+    </audio>
+
+<h2>Ainda que a vida de reviravoltas, sempre lembrarei deste sorriso que muda meu dia.</h2><hr>
+<br>
+
+<img src="1.jpg" alt="amor 1">
+<br>
+<p>Você é o amor da minha vida. Nunca houve outro amor.</p>
+<br>
+<img src="2.jpg" alt="amor 2">
+<br>
+<p>Que a nossa vida seja um sempre para sempre</p>
+<br>
+<img src="3.jpg" alt="amor 3">
+<br>
+<p>Eu te escolherei para sempre, mas se um dia não estivermos mais juntos, que você saiba que você sempre estará no meu coração. Será o espectro que verei na multidão. Quem fará meu peito apertar todas as noite.</p>
+
+<br>
+<hr>
+
+<h1>Sarah,
+
+Nos conhecemos quando o tempo ainda era menino,
+aos treze anos, entre sonhos simples e olhares tímidos,
+quando o futuro parecia distante
+e a vida era apenas um horizonte sem fim.
+
+Éramos duas histórias começando a ser escritas,
+duas almas cruzando caminhos sem saber
+que o destino guardava capítulos secretos
+para serem lidos muitos anos depois.
+
+Então a vida nos levou para longe.
+Vieram os caminhos diferentes, os silêncios, as ausências,
+os dias que se transformaram em anos,
+e os anos que pareciam eternidade.
+
+Mas o amor, quando nasce para ser verdadeiro,
+não se perde nas curvas do tempo.
+Ele repousa em algum lugar invisível,
+esperando o momento certo para florescer.
+
+E foi assim que, aos trinta anos,
+quando já carregávamos cicatrizes, aprendizados e histórias,
+o destino nos chamou novamente pelo nome
+e fez nossos caminhos se encontrarem outra vez.
+
+Não éramos mais aqueles jovens de treze anos,
+mas algo permanecia intacto:
+aquela conexão silenciosa,
+aquele sentimento que o tempo não conseguiu apagar.
+
+Hoje entendo que alguns amores não chegam para passar,
+chegam para permanecer.
+Não importam as distâncias, os desencontros ou as estações;
+eles encontram o caminho de volta.
+
+Sarah, você é a prova de que o tempo não vence tudo.
+Há sentimentos que amadurecem em silêncio,
+como vinho guardado com cuidado,
+esperando o instante perfeito para ser compartilhado.
+
+Se aos treze anos conheci o brilho dos seus olhos,
+aos trinta encontrei a profundidade da sua alma.
+E entre o primeiro encontro e o reencontro,
+Deus escreveu uma história que só nós poderíamos viver.
+
+Hoje, quando olho para você,
+não vejo apenas a mulher que amo.
+Vejo a menina que conheci no passado,
+a amiga que a vida me devolveu,
+e o amor que o tempo teve a gentileza de guardar.
+
+Porque algumas pessoas entram em nossa vida por acaso,
+mas outras são escritas nela desde o início.
+
+E você, Sarah,
+sempre foi uma das páginas mais bonitas da minha história</h1>
+
+<bash>
+git init
+git add .
+git commit -m "primeiro site"
+git branch -M main
+git remote add origin https://github.com/SEU-USUARIO/SEU-REPO.git
+git push -u origin main
+
+<bash/>
+</body>
+</html>
